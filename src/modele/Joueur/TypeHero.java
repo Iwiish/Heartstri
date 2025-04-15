@@ -1,0 +1,3 @@
+public enum TypeHero {
+    PALADIN, VOLEUR, CHASSEUR, GUERRIER, DRUIDE, MAGE, PRETRE
+}
